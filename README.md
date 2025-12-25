@@ -108,3 +108,10 @@
 ---
 
 <img width="100%" alt="Cherry Studio 配置示例" src="https://github.com/user-attachments/assets/530bae42-5044-43da-9e12-24c8babcccfb" />
+
+
+<img width="690" height="142" alt="image" src="https://github.com/user-attachments/assets/f0c1b307-d5b3-476d-85c7-0dbe0a694172" />
+
+
+<img width="690" height="450" alt="image" src="https://github.com/user-attachments/assets/6570dc33-16c5-4519-852f-43462a0a0c29" />
+
